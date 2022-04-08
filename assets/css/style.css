@@ -135,8 +135,8 @@ p {
     font-size: 1.3rem;
     text-align: center;
     line-height: 1.7;
-    padding-right: 18%;
-    padding-left: 18%;
+    padding-right: 16%;
+    padding-left: 16%;
     padding-bottom: 2%;
 }
 
@@ -144,7 +144,7 @@ article div {
     background-color: #FFFFFF;
     background-image: url("../img/illustration3.png");
     background-size: 27rem;
-    height: 90vh;
+    height: 50vh;
     background-repeat: no-repeat;
     background-position: 90% 5%;
 }
@@ -165,16 +165,16 @@ img:hover {
 
 section p+div>img {
     margin-left: 5%;
-    height: 35vh;
-    width: 25vw;
+    height: 22vh;
+    width: 15vw;
 }
 
 section div>img {
-    margin-left: 5%;
+    margin-left: 6%;
     margin-top: 6%;
     margin-bottom: 5%;
-    height: 40vh;
-    width: 40vw;
+    height: 22vh;
+    width: 23vw;
 }
 
 /*------------ASIDE-------------------*/
